@@ -1,0 +1,13 @@
+.form {
+    padding: 2em;
+}
+
+.message {
+    display: none;
+    margin: 1.1em;
+}
+
+.article-col {
+    margin-top: 1.1em;
+    padding: 2em;
+}
